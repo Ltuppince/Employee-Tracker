@@ -12,7 +12,7 @@ var connection = mysql.createConnection({
     user: "root",
   
     // Your password
-    password: "",
+    password: "Giants.2008",
     database: "employee_tracker",
 });
   
@@ -76,7 +76,7 @@ function addRoles(){
 }
 
 function addEmployee(){
-   console.log("Add This Works!!!!!!!")
+    console.log("Add This Works!!!!!!!")
 }
 
 function viewDepartments(){
