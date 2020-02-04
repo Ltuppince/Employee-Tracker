@@ -1,5 +1,5 @@
 /* Seeds for SQL table. We haven't discussed this type of file yet */
-USE boston;
+use employee_tracker;
 
 /* Insert 3 Rows into your new table */
 INSERT INTO colleges (name)

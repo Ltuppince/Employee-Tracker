@@ -68,15 +68,15 @@ function start() {
 }
 
 function addDepartments(){
-    
+    console.log("Add This Works!!!!!!!")
 }
 
 function addRoles(){
-    
+    console.log("Add This Works!!!!!!!")
 }
 
 function addEmployee(){
-   
+   console.log("Add This Works!!!!!!!")
 }
 
 function viewDepartments(){
@@ -104,5 +104,5 @@ function viewEmployee(){
 }
 
 function updateEmployeeRoles(){
-
+    console.log("Add This Works!!!!!!!")
 }
