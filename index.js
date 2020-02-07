@@ -2,6 +2,9 @@ const inquirer = require("inquirer");
 const mysql = require("mysql");
 const consoleTable = require("console.table");
 
+var PORT = process.env.PORT || 8080;
+
+
 var connection = mysql.createConnection({
     host: "localhost",
   
